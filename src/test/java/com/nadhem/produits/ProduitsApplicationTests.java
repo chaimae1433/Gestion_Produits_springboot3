@@ -10,9 +10,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.domain.Page;
 
-import com.nadhem.produits.entities.Produit;
-import com.nadhem.produits.repos.ProduitRepository;
-import com.nadhem.produits.service.ProduitService;
+import ma.chaimae.produits.entities.Produit;
+import ma.chaimae.produits.repos.ProduitRepository;
+import ma.chaimae.produits.service.ProduitService;
 
 
 @SpringBootTest
