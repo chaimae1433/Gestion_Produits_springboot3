@@ -8,7 +8,7 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nadhem</groupId>
+	<groupId>ma.chaimae</groupId>
 	<artifactId>produits</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>produits</name>
